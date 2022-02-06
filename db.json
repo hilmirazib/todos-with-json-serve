@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Belajar VUE JS 3",
+      "day": "Kami, 3 Februari 2022 01.52",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Task Mantis Ongkos Kirim KiriminAja (onProgress)",
+      "day": "02 Februari 2022",
+      "reminder": false,
+      "id": 2
+    }
+  ]
+}
